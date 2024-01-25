@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7f45196e.css",
+    "main.js": "/portfolio/static/js/main.fa743b7d.js",
+    "static/media/Nshan_CV.pdf": "/portfolio/static/media/Nshan_CV.3295299f3a4039667471.pdf",
+    "static/media/home_img.jpg": "/portfolio/static/media/home_img.dacd64c8cd16464dc606.jpg",
+    "static/media/bg_img.jpg": "/portfolio/static/media/bg_img.2f1f84dcba494dd05607.jpg",
+    "static/media/contact_img.jpg": "/portfolio/static/media/contact_img.ad7c2c7b1e0cdfc27bf2.jpg",
+    "static/media/FinalLogo.jpg": "/portfolio/static/media/FinalLogo.5a6e4e9c0f1d95bb8909.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.7f45196e.css.map": "/portfolio/static/css/main.7f45196e.css.map",
+    "main.fa743b7d.js.map": "/portfolio/static/js/main.fa743b7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f45196e.css",
+    "static/js/main.fa743b7d.js"
+  ]
+}
